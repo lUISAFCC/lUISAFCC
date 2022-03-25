@@ -1,4 +1,4 @@
-import libreria de pantalla
+import screen as sc 
 Coco = 1
 numero_de_vidas = 4
 movimientos = 10 
@@ -17,7 +17,12 @@ if (personaje = killed = object) = -1 numero_ de_vidas
 if (numero_ de_vidas = 0) loose 
 print loose
 
-if 8personaje = kills = object)= +1 numero_ de_vidas 
+if (personaje = kills = object)= +1 numero_ de_vidas 
 if ( numero_ de_vidas = 4) = win
 print win
+
+if lives = 0  repeat the game
+ 
+ 
+
 
