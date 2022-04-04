@@ -1,7 +1,7 @@
 import screen as sc 
 Coco = 1
 numero_de_vidas = 4
-movimientos = 10 
+movimientos = 7 
 object = 2 
 time = 2 min 
 
